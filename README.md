@@ -1,0 +1,1 @@
+This is for The Odin Project. Specifically the embedding video and audio project that can be found here: https://www.theodinproject.com/courses/html5-and-css3/lessons/embedding-images-and-video
